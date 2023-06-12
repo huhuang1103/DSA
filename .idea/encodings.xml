@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
-    <file url="file://$PROJECT_DIR$/src/dsa/AVLTree.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/BFS.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/BinTreePosition.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/ComparatorDefault.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/PM_BM.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/dsa/PM_BruteForce.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/PM_KMP.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/PQueue.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/PQueue_Heap.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/PQueue_SortedList.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/PQueue_UnsortedList.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/Position.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/Sequence.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/Sorter_PQueue.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/Sorter_Quicksort.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/SplayTree.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/TestTreeMap.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/TestVector.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/Tree.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/dsa/TreeLinkedList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/cn/test/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/cn/test/TestPersonSerialize.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>

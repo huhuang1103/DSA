@@ -4,7 +4,6 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
 
-import org.junit.Test;
 
 public class MergeSort {
 	static ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(1);
@@ -39,7 +38,6 @@ public class MergeSort {
 		}
 	}
 
-	@Test
 	public void test1() throws InterruptedException {
 		Runnable t = new Runnable() {
 			@Override
